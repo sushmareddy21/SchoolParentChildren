@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <interface id="1" language="java" name="com.cg.spc.service.IFeeInstallmentService" 
+    project="SchoolParentCommunicationApp" 
+    file="/SchoolParentCommunicationApp/src/com/cg/spc/service/IFeeInstallmentService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="424" y="198"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="2" language="java" name="com.cg.spc.service.IClassDiaryService" project="SchoolParentCommunicationApp" 
+    file="/SchoolParentCommunicationApp/src/com/cg/spc/service/IClassDiaryService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="268" y="490"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="3" language="java" name="com.cg.spc.service.IStudentService" project="SchoolParentCommunicationApp" 
+    file="/SchoolParentCommunicationApp/src/com/cg/spc/service/IStudentService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="877" y="171"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="4" language="java" name="com.cg.spc.service.IUserService" project="SchoolParentCommunicationApp" 
+    file="/SchoolParentCommunicationApp/src/com/cg/spc/service/IUserService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="611" y="480"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="5" language="java" name="com.cg.spc.service.IFeeService" project="SchoolParentCommunicationApp" 
+    file="/SchoolParentCommunicationApp/src/com/cg/spc/service/IFeeService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="898" y="502"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="6" language="java" name="com.cg.spc.service.IParentService" project="SchoolParentCommunicationApp" 
+    file="/SchoolParentCommunicationApp/src/com/cg/spc/service/IParentService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1241" y="178"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="7" language="java" name="com.cg.spc.service.IExamService" project="SchoolParentCommunicationApp" 
+    file="/SchoolParentCommunicationApp/src/com/cg/spc/service/IExamService.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="859" y="714"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="8" language="java" name="com.cg.spc.service.IConcernService" project="SchoolParentCommunicationApp" 
+    file="/SchoolParentCommunicationApp/src/com/cg/spc/service/IConcernService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="172" y="666"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="9" language="java" name="com.cg.spc.service.IDiaryNotesService" project="SchoolParentCommunicationApp" 
+    file="/SchoolParentCommunicationApp/src/com/cg/spc/service/IDiaryNotesService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1259" y="697"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="10" language="java" name="com.cg.spc.service.IStudentExamAttemptService" 
+    project="SchoolParentCommunicationApp" 
+    file="/SchoolParentCommunicationApp/src/com/cg/spc/service/IStudentExamAttemptService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1352" y="411"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="11" language="java" name="com.cg.spc.service.IAttendanceService" project="SchoolParentCommunicationApp" 
+    file="/SchoolParentCommunicationApp/src/com/cg/spc/service/IAttendanceService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1674" y="646"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
